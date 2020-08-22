@@ -18,4 +18,4 @@ You put it on a folder in your path.
 Typically in 
 ```~/.local/bin```
 and you run the command:
-``` ~/.local/bin```
+```bt```
